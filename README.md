@@ -123,4 +123,4 @@ YYYY-MM-DD_{title}.mp3
 
 ## License
 
-Personal use project.
+This project is licensed under the [MIT License](LICENSE).
