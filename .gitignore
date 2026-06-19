@@ -1,0 +1,10 @@
+# Ignore batch files
+*.bat
+
+# Ignore downloaded podcasts
+podcasts/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
